@@ -53,10 +53,4 @@ The project consists of a single SQL file containing various queries that perfor
 - Expand the analysis to include more specific regional comparisons.
 
 ## Contributors
-[Your Name]
-
-## License
-[Specify your license here, e.g., MIT License]
-
-## Acknowledgments
-- [Any acknowledgments or data sources you want to mention]
+Andor Varsanyi
