@@ -47,10 +47,6 @@ The project consists of a single SQL file containing various queries that perfor
 3. Execute the queries in your SQL environment.
 4. Modify the queries as needed for your specific analysis requirements.
 
-## Future Enhancements
-- Incorporate data visualizations using tools like Tableau or Power BI.
-- Add more recent data to keep the analysis up-to-date.
-- Expand the analysis to include more specific regional comparisons.
 
 ## Contributors
 Andor Varsanyi
