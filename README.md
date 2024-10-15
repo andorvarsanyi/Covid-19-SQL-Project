@@ -30,7 +30,7 @@ To run this analysis, you'll need to install the following Python packages:
 
 Install these packages using:
 
-bash
+```bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
 
 
