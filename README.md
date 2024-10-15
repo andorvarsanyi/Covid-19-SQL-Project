@@ -1,3 +1,4 @@
+
 # COVID-19 Data Analysis and Exploration Project
 
 ## Overview
@@ -7,13 +8,14 @@ This repository contains two main components for analyzing COVID-19 data:
 1. **Python Analysis**: A Jupyter Notebook that analyzes COVID-19 vaccination data to gain insights into global vaccination trends and their relationships with socio-economic indicators.
 2. **SQL Analysis**: A SQL file that explores various aspects of COVID-19 data, including infection rates, death counts, and vaccination progress across different countries and continents.
 
+You can find the Tableau visualizations for this analysis [here](https://public.tableau.com/app/profile/andor.varsanyi5689/viz/COVID-19_17283452139880/Dashboard).
+
+
 ## Python Analysis: COVID-19 Vaccination Data
 
 ### Project Overview
 
 The Python component focuses on analyzing COVID-19 vaccination data using a dataset from the Our World in Data repository. The analysis explores connections between vaccination rates and factors like GDP per capita, life expectancy, human development index (HDI), and median age.
-
-You can find the Tableau visualizations for this analysis [here](https://public.tableau.com/app/profile/andor.varsanyi5689/viz/COVID-19_17283452139880/Dashboard).
 
 ### Getting Started
 
@@ -32,7 +34,7 @@ Install these packages using:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
-
+```
 
 ### Dataset
 
